@@ -1,5 +1,5 @@
-checkio-task-triangle-angles
+triangle-angles
 =====================
 
-The Checkio Task "The Angles of a Triangle"
+Crystal Store 1.2 "The Angles of a Triangle"
 
