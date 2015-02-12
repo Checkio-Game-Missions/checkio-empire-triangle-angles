@@ -1,12 +1,12 @@
-The most facets of crystals are triangle.
-Looks like we should learn more about this figure.
+Most of the facets on a crystal are trianglea.
+Since these crystals are vital to our base, we should attempt to learn more about this shape.
 
-You are given the lengths for each side on a triangle.
-You need to find all three angles for this triangle.
+You are given the lengths for each side of a triangle.
+You need to find all three of the angles for this triangle.
 If the given side lengths cannot form a triangle (or form a degenerated triangle),
 then you must return all angles as 0 (zero).
 The angles should be represented as a list of integers in **ascending order**.
-Each angle is measured in degrees and rounded to the nearest integer number (Standard mathematical rounding).
+Each angle is measured in degrees and rounded to the nearest integer number using standard mathematical rounding.
 
 ![Triangles](triangle-angles.png.svg)
 
@@ -23,8 +23,7 @@ angles(2, 2, 5) == [0, 0, 0]
 ```
 **How it is used:**
 
-This is a classical geometric task. The ideas can be useful in topography and architecture.
-With this concept you can measure an angle without the need for a protractor.
+This is a classical geometry problem. With this concept you can measure an angle without the need for a protractor for use in fields such as topography or architecture.
 
 **Precondition:**
 ```python
