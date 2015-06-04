@@ -5,4 +5,4 @@ then you must return all angles as 0 (zero).
 The angles should be represented as a list of integers in **ascending order**.
 Each angle is measured in degrees and rounded to the nearest integer number using standard mathematical rounding.
 
-![Triangles](triangle-angles.png.svg)
+![Triangles](triangle-angles.png)
