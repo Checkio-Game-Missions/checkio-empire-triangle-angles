@@ -11,4 +11,5 @@ if (!global.is_checking) {
     assert.deepEqual(angles(4, 4, 4), [60, 60, 60], "All sides are equal");
     assert.deepEqual(angles(3, 4, 5), [37, 53, 90], "Egyptian triangle");
     assert.deepEqual(angles(2, 2, 5), [0, 0, 0], "It's can not be a triangle");
+    console.log("Coding complete? Click 'Check' to review your tests and earn cool rewards!");
 }
